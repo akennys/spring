@@ -25,8 +25,8 @@ public class Test {
 		
 		ApplicationContext ac = new ClassPathXmlApplicationContext("applicationContext.xml");
 		//BeanFactory factory = new XmlBeanFactory(new ClassPathResource("applicationContext.xml"));
-		System.out.println(1232);
-		UserService us = (UserService)ac.getBean("userService");
+		System.out.println(12342);
+		//这是我的第一个dev的代码
 		//我是dev2，我提交了这段代码，你只带么
 	}
 }
